@@ -32,7 +32,7 @@ my-portfolio/
 ✅ Deployed live using GitHub Pages
 --------------------------------------------------------------------------------------------------------------------
 🚀 Live Demo
-🔗
+🔗https://amansaini0223.github.io/my-portfolio/
 --------------------------------------------------------------------------------------------------------------------
 📜 How to Use / Setup
 
@@ -54,6 +54,6 @@ GitHub Pages
 --------------------------------------------------------------------------------------------------------------------
 📧 Contact
 
-Portfolio: 
+Portfolio: https://amansaini0223.github.io/my-portfolio/
 LinkedIn: https://www.linkedin.com/in/aman-saini-as-a77839315/
 GitHub: https://github.com/amansaini0223

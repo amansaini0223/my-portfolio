@@ -569,3 +569,33 @@ html {
   transition: color 0.3s;
 }
 
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;   /* optional but acha lagega */
+}
+
+/* ✅ Media Queries hamesha end me aayenge */
+
+/* Mobile */
+@media (max-width: 600px) {
+  .container {
+    flex-direction: column;
+    padding: 10px;
+    font-size: 14px;
+  }
+}
+
+/* Tablet */
+@media (max-width: 900px) {
+  .container {
+    font-size: 16px;
+  }
+}
+
+/* Laptop/Desktop */
+@media (min-width: 901px) {
+  .container {
+    font-size: 18px;
+  }
+}
